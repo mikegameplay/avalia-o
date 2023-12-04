@@ -1,0 +1,10 @@
+body{
+    background-color: blanchedalmond;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    text-shadow: 25px;
+    font-size: large;
+    color: brown
+}
